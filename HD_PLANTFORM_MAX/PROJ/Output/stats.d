@@ -1,0 +1,13 @@
+.\output\stats.o: ..\LWIP\src\core\stats.c
+.\output\stats.o: ..\LWIP\src\include\lwip/opt.h
+.\output\stats.o: ..\LWIP\src\lwipopts.h
+.\output\stats.o: ..\LWIP\src\include\lwip/debug.h
+.\output\stats.o: ..\LWIP\src\include\lwip/arch.h
+.\output\stats.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cc.h
+.\output\stats.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cpu.h
+.\output\stats.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\stats.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\stats.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\stats.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\stats.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\output\stats.o: ..\LWIP\src\include\lwip/opt.h

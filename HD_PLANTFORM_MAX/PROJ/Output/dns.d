@@ -1,0 +1,13 @@
+.\output\dns.o: ..\LWIP\src\core\dns.c
+.\output\dns.o: ..\LWIP\src\include\lwip/opt.h
+.\output\dns.o: ..\LWIP\src\lwipopts.h
+.\output\dns.o: ..\LWIP\src\include\lwip/debug.h
+.\output\dns.o: ..\LWIP\src\include\lwip/arch.h
+.\output\dns.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cc.h
+.\output\dns.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cpu.h
+.\output\dns.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\dns.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\dns.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\dns.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\dns.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\output\dns.o: ..\LWIP\src\include\lwip/opt.h

@@ -1,0 +1,13 @@
+.\output\ethernetif.o: ..\LWIP\src\netif\ethernetif.c
+.\output\ethernetif.o: ..\LWIP\src\include\lwip/opt.h
+.\output\ethernetif.o: ..\LWIP\src\lwipopts.h
+.\output\ethernetif.o: ..\LWIP\src\include\lwip/debug.h
+.\output\ethernetif.o: ..\LWIP\src\include\lwip/arch.h
+.\output\ethernetif.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cc.h
+.\output\ethernetif.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cpu.h
+.\output\ethernetif.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\ethernetif.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\ethernetif.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\ethernetif.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\ethernetif.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\output\ethernetif.o: ..\LWIP\src\include\lwip/opt.h

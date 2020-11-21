@@ -1,0 +1,15 @@
+.\output\def.o: ..\LWIP\src\core\def.c
+.\output\def.o: ..\LWIP\src\include\lwip/opt.h
+.\output\def.o: ..\LWIP\src\lwipopts.h
+.\output\def.o: ..\LWIP\src\include\lwip/debug.h
+.\output\def.o: ..\LWIP\src\include\lwip/arch.h
+.\output\def.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cc.h
+.\output\def.o: ..\LWIP\port\STM32F1x7\FreeRTOS\cpu.h
+.\output\def.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\def.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\def.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\def.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\def.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\output\def.o: ..\LWIP\src\include\lwip/opt.h
+.\output\def.o: ..\LWIP\src\include\lwip/def.h
+.\output\def.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
